@@ -6,12 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.122.3](https://github.com/promptfoo/promptfoo/compare/0.122.2...0.122.3) (2026-08-29)
 
-
 ### Bug Fixes
 
-* **config:** avoid stack traces for missing optional configs ([#10523](https://github.com/promptfoo/promptfoo/issues/10523)) ([3d67680](https://github.com/promptfoo/promptfoo/commit/3d676805ca5cf40f5a4e92d65db21836cb7391a3))
-* **go-provider:** support importable packages ([#10540](https://github.com/promptfoo/promptfoo/issues/10540)) ([10deb31](https://github.com/promptfoo/promptfoo/commit/10deb31cc3ac953a28ee88fe43530cfc4d2c7927))
-* **providers:** retain failed security scan costs ([#10521](https://github.com/promptfoo/promptfoo/issues/10521)) ([04e36f3](https://github.com/promptfoo/promptfoo/commit/04e36f3b139be643a72d6b08649fe14527b0a4d0))
+- **config:** avoid stack traces for missing optional configs ([#10523](https://github.com/promptfoo/promptfoo/issues/10523)) ([3d67680](https://github.com/promptfoo/promptfoo/commit/3d676805ca5cf40f5a4e92d65db21836cb7391a3))
+- **go-provider:** support importable packages ([#10540](https://github.com/promptfoo/promptfoo/issues/10540)) ([10deb31](https://github.com/promptfoo/promptfoo/commit/10deb31cc3ac953a28ee88fe43530cfc4d2c7927))
+- **providers:** retain failed security scan costs ([#10521](https://github.com/promptfoo/promptfoo/issues/10521)) ([04e36f3](https://github.com/promptfoo/promptfoo/commit/04e36f3b139be643a72d6b08649fe14527b0a4d0))
 
 ## [0.122.2](https://github.com/promptfoo/promptfoo/compare/0.122.1...0.122.2) (2026-08-28)
 
